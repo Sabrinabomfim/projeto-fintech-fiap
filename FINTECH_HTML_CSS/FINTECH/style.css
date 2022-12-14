@@ -1,0 +1,37 @@
+.formularios{
+    background: #140149;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group{color: #EEEEEE;}
+.form-group input {max-width: 300px;}
+
+p {color: #EEEEEE;
+    text-align: justify;
+    text-indent: 40px;
+    margin: 40px;
+}    
+  
+h1{
+    color: #EEEEEE;
+    text-align: justify;
+    text-indent: 40px;
+    margin: 40px;
+}
+
+
+.button{
+    display: flex;
+    text-align: justify;
+    text-indent: 40px;
+    margin: 40px;
+}
+
+
+a {display: flex;
+    text-align: justify;
+    text-indent: 40px;
+    margin: 40px;
+}
